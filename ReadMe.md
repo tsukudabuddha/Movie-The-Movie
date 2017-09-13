@@ -10,3 +10,6 @@ There is are five different actors, they all interact naturally. That's it. But 
 - Ashton Kutcher as Himself
 - Mila Kunis as Herself
 - Bam Margera as Himself
+
+## The Movie 2 Idea
+It is the same movie, but everything is on Mars
