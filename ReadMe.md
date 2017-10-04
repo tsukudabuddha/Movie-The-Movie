@@ -10,7 +10,7 @@ There is are five different actors, they all interact naturally. That's it. But 
 - Ashton Kutcher as no Way
 - Mila Kunis as Herself
 - Bam Margera as Himself
-- I don't like this movie
+- Hugh Hefner as the owner of the yacht.
 
 ## The Movie 2 Idea
 It is the same movie, but everything is on Mars
